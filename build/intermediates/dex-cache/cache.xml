@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AMap3DDemo\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\AMap3DDemo\app\build\intermediates\pre-dexed\debug\android-support-v4_0956f0fda68a61c5f9ccdf11e95356232c3a0c75.jar" />
+    </item>
+    <item
+        jar="D:\AMap3DDemo\app\libs\Volley.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Volley_7961cd2a3d3d662d9975af57c3168235e4405ddb.jar" />
+    </item>
+    <item
+        jar="D:\AMap3DDemo\app\libs\AMap_Location_V3.6.1_20171012.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="538dbe4979c1a69aa5e15862a245288a585335ea">
+        <dex dex="D:\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.1_20171012_e1ac94c4b372c64bb1058795c50e7d251468ec8e.jar" />
+    </item>
+    <item
+        jar="D:\AMap3DDemo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
+        <dex dex="D:\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.5.0_20171107_896de29d4afabc3e291a99e6dcc93b044c27fa02.jar" />
+    </item>
+    <item
+        jar="D:\AMap3DDemo\app\libs\Android_Map3D_SDK_V5.6.0_20171128.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a80ce21469fb8217142cadbfb09751ee695ec4d3">
+        <dex dex="D:\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.6.0_20171128_cbfc452eaf990e10c4016e959ef91b30ca92be90.jar" />
+    </item>
+
+</items>
